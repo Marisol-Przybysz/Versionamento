@@ -1,0 +1,14 @@
+html{
+    background-color: #95af6c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+}
+p{
+    background-color: #afce7d;
+}
+ol{
+    background-color: #afce7d;
+}
+h1, h2{
+    font-family: cursive;
+}
